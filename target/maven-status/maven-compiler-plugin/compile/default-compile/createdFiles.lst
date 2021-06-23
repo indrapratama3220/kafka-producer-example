@@ -1,0 +1,4 @@
+com/kafka/producer/StreamA.class
+com/kafka/producer/Producer.class
+com/kafka/producer/AppConfigs.class
+com/kafka/producer/StreamB.class
